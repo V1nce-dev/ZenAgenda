@@ -1,0 +1,33 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.ts",
+    "generate": "drizzle-kit generate:pg --schema=./src/database/schema.ts && node -r esbuild-register src/database/migrate.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@fastify/multipart": "^8.1.0",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/node": "^20.11.28",
+    "@types/pg": "^8.11.2",
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "drizzle-kit": "^0.20.16",
+    "fastify": "^4.26.2",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.3",
+    "postgres": "^3.4.3",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "@fastify/formbody": "^7.4.0",
+    "@types/bcrypt": "^5.0.2",
+    "drizzle-orm": "^0.30.2"
+  }
+}
