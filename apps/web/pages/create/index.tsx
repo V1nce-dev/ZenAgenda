@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import useTask from "@/hooks/useTask";
+import * as stylex from "@stylexjs/stylex";
 
 interface Task {
   task: string;
@@ -39,7 +40,7 @@ const TaskPage = () => {
   };
 
   return (
-    <div>
+    <div {...stylex.props(styles.body)}>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
@@ -59,5 +60,9 @@ const TaskPage = () => {
     </div>
   );
 };
+
+const styles = stylex.create({
+  body: {},
+});
 
 export default TaskPage;

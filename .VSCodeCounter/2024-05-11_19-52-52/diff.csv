@@ -1,0 +1,11 @@
+"filename", "language", "TypeScript JSX", "TypeScript", "XML", "comment", "blank", "total"
+"/Users/vincentsuen/ZenAgenda/apps/web/components/navBar.tsx", "TypeScript JSX", 55, 0, 0, 0, 0, 55
+"/Users/vincentsuen/ZenAgenda/apps/web/pages/auth/login/index.tsx", "TypeScript JSX", -1, 0, 0, 0, -1, -2
+"/Users/vincentsuen/ZenAgenda/apps/web/pages/auth/register/index.tsx", "TypeScript JSX", 69, 0, 0, 0, -1, 68
+"/Users/vincentsuen/ZenAgenda/apps/web/pages/index.tsx", "TypeScript JSX", 63, 0, 0, 0, 1, 64
+"/Users/vincentsuen/ZenAgenda/apps/web/public/icon.svg", "XML", 0, 0, 7, 0, 1, 8
+"/Users/vincentsuen/ZenAgenda/apps/web/public/index.ts", "TypeScript", 0, 1, 0, 0, 1, 2
+"/Users/vincentsuen/ZenAgenda/apps/web/public/next.svg", "XML", 0, 0, -1, 0, 0, -1
+"/Users/vincentsuen/ZenAgenda/apps/web/public/vercel.svg", "XML", 0, 0, -1, 0, 0, -1
+"/Users/vincentsuen/ZenAgenda/apps/web/styles/list.tsx", "TypeScript JSX", -2, 0, 0, 0, 0, -2
+"Total", "-", 184, 1, 5, 0, 1, 191

@@ -1,0 +1,37 @@
+"filename", "language", "TypeScript", "JSON", "TypeScript JSX", "XML", "JSON with Comments", "Markdown", "CSS", "JavaScript", "comment", "blank", "total"
+"/Users/vincentsuen/ZenAgenda/apps/api/drizzle.config.ts", "TypeScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 2, 13
+"/Users/vincentsuen/ZenAgenda/apps/api/package.json", "JSON", 0, 33, 0, 0, 0, 0, 0, 0, 0, 1, 34
+"/Users/vincentsuen/ZenAgenda/apps/api/src/database/index.ts", "TypeScript", 10, 0, 0, 0, 0, 0, 0, 0, 0, 5, 15
+"/Users/vincentsuen/ZenAgenda/apps/api/src/database/migrate.ts", "TypeScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 6, 25
+"/Users/vincentsuen/ZenAgenda/apps/api/src/database/schema.ts", "TypeScript", 16, 0, 0, 0, 0, 0, 0, 0, 0, 3, 19
+"/Users/vincentsuen/ZenAgenda/apps/api/src/modules/middleware/authenticate.ts", "TypeScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 8, 40
+"/Users/vincentsuen/ZenAgenda/apps/api/src/modules/todo/todoController.ts", "TypeScript", 80, 0, 0, 0, 0, 0, 0, 0, 0, 19, 99
+"/Users/vincentsuen/ZenAgenda/apps/api/src/modules/todo/todoRouter.ts", "TypeScript", 55, 0, 0, 0, 0, 0, 0, 0, 0, 7, 62
+"/Users/vincentsuen/ZenAgenda/apps/api/src/modules/user/userController.ts", "TypeScript", 113, 0, 0, 0, 0, 0, 0, 0, 0, 23, 136
+"/Users/vincentsuen/ZenAgenda/apps/api/src/modules/user/userRouter.ts", "TypeScript", 46, 0, 0, 0, 0, 0, 0, 0, 0, 5, 51
+"/Users/vincentsuen/ZenAgenda/apps/api/src/server.ts", "TypeScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 6, 28
+"/Users/vincentsuen/ZenAgenda/apps/web/.babelrc.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 21, 2, 1, 24
+"/Users/vincentsuen/ZenAgenda/apps/web/.eslintrc.json", "JSON", 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"/Users/vincentsuen/ZenAgenda/apps/web/README.md", "Markdown", 0, 0, 0, 0, 0, 25, 0, 0, 0, 16, 41
+"/Users/vincentsuen/ZenAgenda/apps/web/components/layout.tsx", "TypeScript JSX", 0, 0, 13, 0, 0, 0, 0, 0, 0, 3, 16
+"/Users/vincentsuen/ZenAgenda/apps/web/components/navBar.tsx", "TypeScript JSX", 0, 0, 44, 0, 0, 0, 0, 0, 0, 6, 50
+"/Users/vincentsuen/ZenAgenda/apps/web/hooks/useCheck.tsx", "TypeScript JSX", 0, 0, 19, 0, 0, 0, 0, 0, 0, 7, 26
+"/Users/vincentsuen/ZenAgenda/apps/web/hooks/useLogin.tsx", "TypeScript JSX", 0, 0, 35, 0, 0, 0, 0, 0, 0, 8, 43
+"/Users/vincentsuen/ZenAgenda/apps/web/hooks/useRegister.tsx", "TypeScript JSX", 0, 0, 40, 0, 0, 0, 0, 0, 0, 7, 47
+"/Users/vincentsuen/ZenAgenda/apps/web/hooks/useTask.tsx", "TypeScript JSX", 0, 0, 46, 0, 0, 0, 0, 0, 0, 10, 56
+"/Users/vincentsuen/ZenAgenda/apps/web/next.config.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 13, 9, 3, 25
+"/Users/vincentsuen/ZenAgenda/apps/web/next.config.mjs", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 4, 1, 2, 7
+"/Users/vincentsuen/ZenAgenda/apps/web/package-lock.json", "JSON", 0, 5032, 0, 0, 0, 0, 0, 0, 0, 1, 5033
+"/Users/vincentsuen/ZenAgenda/apps/web/package.json", "JSON", 0, 27, 0, 0, 0, 0, 0, 0, 0, 1, 28
+"/Users/vincentsuen/ZenAgenda/apps/web/pages/_app.tsx", "TypeScript JSX", 0, 0, 10, 0, 0, 0, 0, 0, 0, 2, 12
+"/Users/vincentsuen/ZenAgenda/apps/web/pages/_document.tsx", "TypeScript JSX", 0, 0, 12, 0, 0, 0, 0, 0, 0, 2, 14
+"/Users/vincentsuen/ZenAgenda/apps/web/pages/auth/login/index.tsx", "TypeScript JSX", 0, 0, 33, 0, 0, 0, 0, 0, 0, 9, 42
+"/Users/vincentsuen/ZenAgenda/apps/web/pages/auth/register/index.tsx", "TypeScript JSX", 0, 0, 39, 0, 0, 0, 0, 0, 0, 9, 48
+"/Users/vincentsuen/ZenAgenda/apps/web/pages/create/index.tsx", "TypeScript JSX", 0, 0, 60, 0, 0, 0, 0, 0, 0, 9, 69
+"/Users/vincentsuen/ZenAgenda/apps/web/pages/index.tsx", "TypeScript JSX", 0, 0, 13, 0, 0, 0, 0, 0, 0, 5, 18
+"/Users/vincentsuen/ZenAgenda/apps/web/public/next.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/vincentsuen/ZenAgenda/apps/web/public/vercel.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/vincentsuen/ZenAgenda/apps/web/styles/globals.css", "CSS", 0, 0, 0, 0, 0, 0, 7, 0, 6, 2, 15
+"/Users/vincentsuen/ZenAgenda/apps/web/styles/list.tsx", "TypeScript JSX", 0, 0, 12, 0, 0, 0, 0, 0, 0, 3, 15
+"/Users/vincentsuen/ZenAgenda/apps/web/tsconfig.json", "JSON with Comments", 0, 0, 0, 0, 21, 0, 0, 0, 0, 1, 22
+"Total", "-", 404, 5095, 376, 2, 21, 25, 7, 38, 18, 193, 6179

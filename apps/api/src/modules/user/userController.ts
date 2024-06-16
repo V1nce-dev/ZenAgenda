@@ -67,7 +67,7 @@ const registerUser = async (
       .where(eq(users.email, email));
 
     if (userExists.length > 0) {
-      reply.send(401).send("This user already exists");
+      reply.code(401).send("This user already exists");
     }
 
     const hashPassword = await bcrypt.hash(password, 10);
